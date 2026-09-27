@@ -1,0 +1,12 @@
+{
+  "name": "トテリス",
+  "short_name": "トテリス",
+  "description": "スマホ向けブロック落下ゲーム・トテリス",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ja",
+  "background_color": "#050816",
+  "theme_color": "#081126",
+  "icons": []
+}
